@@ -47,7 +47,7 @@ To create you team, need to answer some question about each role.
 "Office Number: " 2020
 
 ## Input Data Example 
-
+![screen](./media/console.png)
 
 
 ### HTML OUTPUT

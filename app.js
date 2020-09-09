@@ -118,11 +118,11 @@ async function EnterInterns() {
       }, 
       {
         name: "email",
-        message: "Intern" + i + " Email:"
+        message: "Intern " + i + " Email: "
       },
       {
         name: "school",
-        message: "Intern " + i + " School:"
+        message: "Intern " + i + " School: "
       }
     ]);
     
