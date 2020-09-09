@@ -10,6 +10,7 @@ You can add the info of each member in a html file, you can open this in the bro
 
 * [Installation](#installation)
 * [Usage](#usage)
+* [Test](#test)
 * [Credits](#credits)
 * [License](#license)
 * [Questiones](#Questiones)
